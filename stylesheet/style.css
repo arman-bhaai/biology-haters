@@ -1,0 +1,32 @@
+header .jumbotron {
+    text-align: center;
+}
+header h1 {
+    font-family: 'Henny Penny', cursive;
+}
+header a {
+    color:#218c39
+}
+header a:hover {
+    color:#156cc4
+}
+header a:visited {
+    color: #218c39;
+}
+.navbar-brand {
+    width: 100px;
+}
+nav, table{
+    box-shadow: 0px 20px 14px 7px rgba(0,0,0,0.35);
+}
+button, table {
+    font-family: 'SolaimanLipi', Arial, sans-serif;
+    font-weight: bold !important;
+}
+button {
+    box-shadow: 9px 11px 16px -4px rgba(0,0,0,0.35);
+}
+footer {
+    height:60px;
+    background:#343a40
+}

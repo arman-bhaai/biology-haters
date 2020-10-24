@@ -1,0 +1,48 @@
+chp-1:
+  title-chp: Chapter Name
+  lectures:
+    id: lectures
+    title-lec: Lecture Videos
+    lecture-list:
+      - lecture-topic: Lecture Topic
+        post-id: url
+      - lecture-topic: Lecture Topic
+        post-id: url
+  notes:
+    id: notes
+    title-note: Student Notes
+    authors:
+      - id: a1
+        name: Author
+        note-list:
+          - note-topic: Note Topic
+            post-id: url
+          - note-topic: Note Topic
+            post-id: url
+      - id: a2
+        name: Author
+        note-list:
+          - note-topic: Note Topic
+            post-id: url
+          - note-topic: Note Topic
+            post-id: url
+  exams:
+    id: exams
+    title-exam: Exams
+    exam-list:
+      - exam-topic: Exam Topic
+        post-id: url
+      - exam-topic: Exam Topic
+        post-id: url
+
+chp-2:
+  title-chp: Chapter Name
+
+chp-3:
+  title-chp: Chapter Name
+
+chp-4:
+  title-chp: Chapter Name
+
+chp-5:
+  title-chp: Chapter Name
